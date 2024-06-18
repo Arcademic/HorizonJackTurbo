@@ -1,4 +1,4 @@
-// Quelle: https://gist.github.com/ybakos/7ca67fcfd07477a9550b
+// Source: https://gist.github.com/ybakos/7ca67fcfd07477a9550b
 
  class Random {
     static int seed;
