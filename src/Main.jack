@@ -1,0 +1,17 @@
+class Main {
+    method void main() {
+        var Game game;
+        let game = Game.new();
+        do init();
+
+        do game.title();
+
+        return;
+    }
+
+    method void init() {
+        do Graphics.init();
+        return;
+    }
+
+}
